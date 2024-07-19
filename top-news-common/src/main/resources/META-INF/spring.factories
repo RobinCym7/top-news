@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.cym.common.exception.ExceptionCatch,\
+  com.cym.common.redis.CacheService
